@@ -1,0 +1,42 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = GENERAL DEPARTMENT OF TAXATION
+
+## Skin
+
+### Button
+Button_62108AD7_73F3_09EB_41DC_DE1CEC171FA6.label = Mini Map
+Button_62CBAF48_73ED_08E4_41DA_8ACEB38B6529.label = Contact Us
+
+### Label
+Label_67C0ED9F_73FF_0B9B_41D8_30A7116528C9.text = GDT Tower 2nd Floor
+
+## Media
+
+### Title
+map_66D17074_73ED_18AD_41D3_6EC77A434290.label = photo_2021-03-25_09-25-50
+panorama_E933B6A2_E588_086F_41E5_44E3333B687C.label = 01
+panorama_EE119E58_E58F_F8DA_41D8_C0E05669BC59.label = 02
+panorama_EE14B989_E588_183C_41D3_2DE46C509C75.label = 11
+panorama_EE14C837_E588_1854_41B3_4119D4C97DED.label = 07
+panorama_EE14D6F3_E588_09ED_41BC_19C38E7CCB1C.label = 03
+panorama_EE14FEC5_E588_1835_41E8_98575285ACB2.label = 04
+panorama_EE151064_E588_08EB_41E5_D9F549767685.label = 08
+panorama_EE1511B5_E588_0854_41E0_00388C1F77AE.label = 12
+panorama_EE15175E_E588_08D7_41C3_B4D27C6D12FD.label = 05
+panorama_EE152FEC_E588_37FB_41D8_12C895E33470.label = 06
+panorama_EE153A42_E588_382C_41E9_DFFC1CF971EF.label = 13
+panorama_EE1568AE_E588_7877_41CF_3758BAB1A4E0.label = 09
+panorama_EE15713A_E588_085C_41E0_AD41FFC69DC4.label = 10
+
+## Action
+
+### URL
+LinkBehaviour_660B2F2D_76FC_9531_41D0_36A109E662AC.source = https://www.cmedcc.com/
+LinkBehaviour_662CD49A_76F4_EB1C_41CF_3C78D7DD2E72.source = https://www.google.com/maps/place/CMED+Construction+Company/@11.5450478,104.9248668,15z/data=!4m5!3m4!1s0x0:0x7e215fce7b5af38c!8m2!3d11.5450478!4d104.9248668
+LinkBehaviour_67804E93_76FD_9711_41B4_8678E37FE9D1.source = https://www.linkedin.com/company/cmedcc
